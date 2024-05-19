@@ -2,11 +2,11 @@ ERROR-TO
 ========
 
 <div align=center>
-  <h3>🚧 WIP 🚧</h3>
+  <h4>🚧 WIP 🚧</h4>
 </div>
 
 <div align=center>
-  <img alt="logo-of-error-ro" src="https://raw.githubusercontent.com/metaory/error-to/master/.github/assets/logo.png" width="70%">
+  <img alt="logo-of-error-ro" src="https://raw.githubusercontent.com/metaory/error-to/master/.github/assets/logo.png" width="50%">
   <h2>🚧 Serialize Errors to</h2>
   <h5>🚧 Transform to Array / Object</h5>
   ╶─╴╶╴╶╴╶╴╶╴╶╴╶╴╶╴╶╴╶╴╶─╴

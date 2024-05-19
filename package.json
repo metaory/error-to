@@ -1,0 +1,50 @@
+{
+  "name": "error-to",
+  "version": "0.0.2-0",
+  "description": "♻️ Serialize an error into a short object or array with customizable formatter",
+  "author": "metaory <metaory@gmail.com>",
+  "bugs": "https://github.com/metaory/error-to/issues",
+  "homepage": "https://github.com/metaory/error-to#readme",
+  "repository": "git+https://github.com/metaory/error-to.git",
+  "type": "module",
+  "sideEffects": false,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node --test --watch test/error-to-spec.js",
+    "test": "node --test",
+    "build": "npx unbuild"
+  },
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.mts",
+        "default": "./dist/index.mjs"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    }
+  },
+  "main": "./dist/index.cjs",
+  "types": "./dist/index.d.mts",
+  "module": "./dist/index.mjs",
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "keywords": [
+    "error",
+    "serialize",
+    "stringify",
+    "object",
+    "convert",
+    "process",
+    "cause",
+    "transform",
+    "format"
+  ],
+  "license": "MIT"
+}

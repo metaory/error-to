@@ -6,7 +6,7 @@ ERROR-TO
 </div>
 
 <div align=center>
-  <img alt="logo-of-error-ro" src="https://raw.githubusercontent.com/metaory/error-to/master/.github/assets/logo.png" width="50%">
+  <img alt="logo-of-error-ro" src="https://raw.githubusercontent.com/metaory/error-to/master/.github/assets/logo.png" width="40%">
   <h2>🚧 Serialize Errors to</h2>
   <h5>🚧 Transform to Array / Object</h5>
   ╶─╴╶╴╶╴╶╴╶╴╶╴╶╴╶╴╶╴╶╴╶─╴

@@ -1,6 +1,6 @@
 {
   "name": "error-to",
-  "version": "0.0.0",
+  "version": "0.0.1-0",
   "description": "🚧 ♻️ Serialize an error into a short object or array with customizable formatter 🚧",
   "author": "metaory <metaory@gmail.com>",
   "bugs": "https://github.com/metaory/error-to/issues",
